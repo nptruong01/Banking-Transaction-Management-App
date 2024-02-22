@@ -75,7 +75,8 @@ Once the application is running, the user interface will display with the follow
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/0fe70ecf-592c-4d3b-a46d-5554653e62ee.png" alt="Customer Information Interface" width="450"/>
 
 ### User Information Interface
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/58c257c8-d82d-40dd-9961-095969515718.png" alt="User Information Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/0f16c4e3-c777-41ba-bde2-1e169982dfd3.png" alt="User Information Interface" width="450"/>
+![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/0f16c4e3-c777-41ba-bde2-1e169982dfd3)
 
 ### Branch Management Interface (for system administrators)
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a45598c5-344f-435a-9669-f8546992cb4a.png" alt="Branch Management Interface" width="450"/>
