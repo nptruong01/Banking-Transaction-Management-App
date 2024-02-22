@@ -79,7 +79,7 @@ Once the application is running, the user interface will display with the follow
 ### Statistics Interface
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/18e4fd95-2233-4458-94c8-1838e4a956c9.png" alt="Statistics Interface" width="450"/>
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/82210377-1954-4900-8aa6-192869acc51b.png" alt="Statistics Interface" width="450"/>
-
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/2e70bcf4-dfab-44f2-8837-786d264c99a4.png" alt="Statistics Interface" width="450"/>
 
 <div align="left">
 
