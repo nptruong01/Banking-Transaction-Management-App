@@ -41,50 +41,50 @@ Once the application is running, the user interface will display with the follow
 ## Screenshots
 <div align="center">
 
-### Giao diện đăng nhập
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/7e8b95b0-25bf-4684-a127-61542ec87181)
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/35a6372e-b906-4565-a3e7-f22684840aa7)
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/ed0159a0-50be-404e-9b29-b9787584acc2)
+### Login Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/7e8b95b0-25bf-4684-a127-61542ec87181.png" alt="Login Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/35a6372e-b906-4565-a3e7-f22684840aa7.png" alt="Login Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/ed0159a0-50be-404e-9b29-b9787584acc2.png" alt="Login Interface" width="450"/>
 
+### Home Page Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/420d3c47-330f-4405-9241-75899e644cc0.png" alt="Home Page Interface" width="450"/>
 
-### Giao diện trang chủ
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/420d3c47-330f-4405-9241-75899e644cc0)
+### User Account Creation Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/e0f00dd4-3beb-42ab-8e77-82e43c6afbc0.png" alt="User Account Creation Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/992a422d-2433-4bc9-b013-812eb7062092.png" alt="User Account Creation Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/9d1eb97a-c8c2-4988-ba23-b4a72d49666a.png" alt="User Account Creation Interface" width="450"/>
 
-### Giao diện tạo tài khoản cho người dùng
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/e0f00dd4-3beb-42ab-8e77-82e43c6afbc0)
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/992a422d-2433-4bc9-b013-812eb7062092)
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/9d1eb97a-c8c2-4988-ba23-b4a72d49666a)
+### Deposit Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/126e373a-f6dd-4831-b5c4-bdf78a14747c.png" alt="Deposit Interface" width="450"/>
 
-### Giao diện nạp tiền
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/126e373a-f6dd-4831-b5c4-bdf78a14747c)
+### Withdrawal Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a4d0b52e-a87e-49a0-a9d6-a54b24924f62.png" alt="Withdrawal Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/f733e6af-0bd8-49a1-92b6-35655808d402.png" alt="Withdrawal Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a72d48db-2a0b-4b38-a872-ebe0ed06a85b.png" alt="Withdrawal Interface" width="450"/>
 
-### Giao diện rút tiền
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a4d0b52e-a87e-49a0-a9d6-a54b24924f62)
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/f733e6af-0bd8-49a1-92b6-35655808d402)
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a72d48db-2a0b-4b38-a872-ebe0ed06a85b)
+### Money Transfer Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/3a1c8ca8-4d47-4f33-995b-7be731143af0.png" alt="Money Transfer Interface" width="450"/>
 
-### Giao diện chuyển tiền
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/3a1c8ca8-4d47-4f33-995b-7be731143af0)
+### View Balance Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/97088c95-47f4-4f0c-bcf4-d2e95a75035e.png" alt="View Balance Interface" width="450"/>
 
-### Giao diện xem số dư
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/97088c95-47f4-4f0c-bcf4-d2e95a75035e)
+### Account Lock/Unlock Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/23aab686-8d18-45f9-adf0-ae191257aec1.png" alt="Account Lock/Unlock Interface" width="450"/>
 
-### Giao diện khóa mở tài khoản khách hàng
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/23aab686-8d18-45f9-adf0-ae191257aec1)
+### Customer Information Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/0fe70ecf-592c-4d3b-a46d-5554653e62ee.png" alt="Customer Information Interface" width="450"/>
 
-### Giao diện thông tin khách hàng
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/0fe70ecf-592c-4d3b-a46d-5554653e62ee)
+### User Information Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/58c257c8-d82d-40dd-9961-095969515718.png" alt="User Information Interface" width="450"/>
 
-### Giao diện thông tin user
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/58c257c8-d82d-40dd-9961-095969515718)
+### Branch Management Interface (for system administrators)
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a45598c5-344f-435a-9669-f8546992cb4a.png" alt="Branch Management Interface" width="450"/>
 
-### Giao diện quản lý chi nhánh(chỉ quản trị hệ thống)
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a45598c5-344f-435a-9669-f8546992cb4a)
+### Statistics Interface
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/1a588225-1cf7-45fe-bdf7-878a7df60b9d.png" alt="Statistics Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/3f7091a6-eb0e-4f84-8972-2dc4703ee309.png" alt="Statistics Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/82210377-1954-4900-8aa6-192869acc51b.png" alt="Statistics Interface" width="450"/>
 
-### Giao diện thống kê
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/1a588225-1cf7-45fe-bdf7-878a7df60b9d)
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/3f7091a6-eb0e-4f84-8972-2dc4703ee309)
-![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/82210377-1954-4900-8aa6-192869acc51b)
 
 <div align="left">
 
@@ -95,3 +95,6 @@ Once the application is running, the user interface will display with the follow
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+## Contact
+
+For questions or support, please contact [phitruong170901@gmail.com](mailto:phitruong170901@gmail.com).
