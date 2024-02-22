@@ -52,7 +52,8 @@ Once the application is running, the user interface will display with the follow
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a00f1266-e550-4287-ae50-098c6b317a19.png" alt="Deposit Interface" width="450"/>
 
 ### Withdrawal Interface
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/975cb8b0-bcac-4619-a987-6d095d76bcba.png" alt="Withdrawal Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a4d0b52e-a87e-49a0-a9d6-a54b24924f62.png" alt="Withdrawal Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/f733e6af-0bd8-49a1-92b6-35655808d402.png" alt="Withdrawal Interface" width="450"/>
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a72d48db-2a0b-4b38-a872-ebe0ed06a85b.png" alt="Withdrawal Interface" width="450"/>
 
 ### Money Transfer Interface
@@ -74,8 +75,7 @@ Once the application is running, the user interface will display with the follow
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a45598c5-344f-435a-9669-f8546992cb4a.png" alt="Branch Management Interface" width="450"/>
 
 ### Statistics Interface
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/1a588225-1cf7-45fe-bdf7-878a7df60b9d.png" alt="Statistics Interface" width="450"/>
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/3f7091a6-eb0e-4f84-8972-2dc4703ee309.png" alt="Statistics Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/18e4fd95-2233-4458-94c8-1838e4a956c9.png" alt="Statistics Interface" width="450"/>
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/82210377-1954-4900-8aa6-192869acc51b.png" alt="Statistics Interface" width="450"/>
 
 
