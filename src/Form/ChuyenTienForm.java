@@ -734,7 +734,6 @@ public class MyOtherClass {
                                 try {
 
                                     Message message = new MimeMessage(session);
-                                    message.setFrom(new InternetAddress("nguyenanhgoku123@gmail.com"));
                                     message.setRecipients(
                                         Message.RecipientType.TO,
                                         InternetAddress.parse(txtmail.getText())
@@ -910,7 +909,6 @@ public class MyOtherClass {
                     try {
 
                         Message message = new MimeMessage(session);
-                        message.setFrom(new InternetAddress("nguyenanhgoku123@gmail.com"));
                         message.setRecipients(
                                 Message.RecipientType.TO,
                                 InternetAddress.parse(txtmail.getText())
