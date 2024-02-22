@@ -4,8 +4,6 @@ Banking Transaction Management is a simple JavaSwing application developed to ma
 
 ## Function
 
-Once the application is running, the user interface will display with the following options:
-
 ### Manage System
 - **User Account Management**: Enables administrators to manage user accounts.
 - **User Permissions**: Allows administrators to assign permissions to users.
@@ -31,6 +29,7 @@ Once the application is running, the user interface will display with the follow
 - **Withdrawal**: Customers can withdraw money from their accounts at the bank, subject to verification and sufficient funds availability.
 - **Check Balance**: Customers can check their account balances at the bank.
 - **Transaction Statistics**: Customers can request and view transaction histories at the bank.
+- **Statistics Chart**: Customers can easily track transaction information through charts.
 
 ## Screenshots
 <div align="center">
@@ -46,8 +45,11 @@ Once the application is running, the user interface will display with the follow
 ### User Account Creation Interface
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/10f02275-7f08-4c80-a783-eace7e438595.png" alt="User Account Creation Interface" width="450"/>
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/3fed30fb-995d-40d2-8421-5ea6033ec660.png" alt="User Account Creation Interface" width="450"/>
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/be837fc5-f17e-4d95-a6a6-2e2f6d9eb2f6.png" alt="User Account Creation Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/be837fc5-f17e-4d95-a6a6-2e2f6d9eb2f6.png" alt="User Account Creation Interface" width="350"/>
 
+### Statistics Chart
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/29fefcde-f9da-4d75-8da7-cc11b474e28c.png" alt="User Account Creation Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/075bbba7-4ecc-48f9-b6fc-7b5ab2b9701c.png" alt="User Account Creation Interface" width="450"/>
 
 ### Deposit Interface
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a00f1266-e550-4287-ae50-098c6b317a19.png" alt="Deposit Interface" width="450"/>
