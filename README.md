@@ -1,12 +1,6 @@
 # Banking Transaction Management
 
 Banking Transaction Management is a simple JavaSwing application developed to manage basic banking transactions. 
-## Installation
-
-### Requirements
-
-- Java Development Kit (JDK) 8 or above.
-- NetBeanIDE 8.2 or above.
 
 ## Function
 
@@ -47,7 +41,7 @@ Once the application is running, the user interface will display with the follow
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/ed0159a0-50be-404e-9b29-b9787584acc2.png" alt="Login Interface" width="450"/>
 
 ### Home Page Interface
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/420d3c47-330f-4405-9241-75899e644cc0.png" alt="Home Page Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/3443fa36-5f21-4d16-89bf-b251f6077d1d.png" alt="Home Page Interface" width="450"/>
 
 ### User Account Creation Interface
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/e0f00dd4-3beb-42ab-8e77-82e43c6afbc0.png" alt="User Account Creation Interface" width="450"/>
@@ -55,11 +49,10 @@ Once the application is running, the user interface will display with the follow
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/9d1eb97a-c8c2-4988-ba23-b4a72d49666a.png" alt="User Account Creation Interface" width="450"/>
 
 ### Deposit Interface
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/126e373a-f6dd-4831-b5c4-bdf78a14747c.png" alt="Deposit Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a00f1266-e550-4287-ae50-098c6b317a19.png" alt="Deposit Interface" width="450"/>
 
 ### Withdrawal Interface
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a4d0b52e-a87e-49a0-a9d6-a54b24924f62.png" alt="Withdrawal Interface" width="450"/>
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/f733e6af-0bd8-49a1-92b6-35655808d402.png" alt="Withdrawal Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/975cb8b0-bcac-4619-a987-6d095d76bcba.png" alt="Withdrawal Interface" width="450"/>
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a72d48db-2a0b-4b38-a872-ebe0ed06a85b.png" alt="Withdrawal Interface" width="450"/>
 
 ### Money Transfer Interface
