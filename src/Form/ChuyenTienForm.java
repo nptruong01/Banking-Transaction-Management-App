@@ -717,8 +717,7 @@ public class MyOtherClass {
                     if (gddao.chuyenkhoan(sp) > 0 && gddao.congtienchuyenkhoan(sp) > 0 && gddao.trutien(sp) > 0 )
                     {
                         sp.setAmount(Integer.parseInt(txttien.getText()));                      
-                                final String username = "nguyenanhgoku123@gmail.com";
-                                final String password = "wbtqbjyurjhzygku";
+
 
                                 Properties prop = new Properties();
                                 prop.put("mail.smtp.host", "smtp.gmail.com");
@@ -894,8 +893,7 @@ public class MyOtherClass {
                 {
                     sp.setAmount(Integer.parseInt(txttien.getText()));
                     
-                    final String username = "nguyenanhgoku123@gmail.com";
-                    final String password = "wbtqbjyurjhzygku";
+
 
                     Properties prop = new Properties();
                     prop.put("mail.smtp.host", "smtp.gmail.com");
