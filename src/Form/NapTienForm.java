@@ -538,9 +538,7 @@ public class NapTienForm extends javax.swing.JPanel {
 
             if (gddao.naptien(sp)>0 && gddao.congtien(sp)>0 )
             {
-//                sp.setAmount(Integer.parseInt(txttien.getText()));
-                                final String username = "nguyenanhgoku123@gmail.com";
-                                final String password = "wbtqbjyurjhzygku";
+
 
                                 Properties prop = new Properties();
                                 prop.put("mail.smtp.host", "smtp.gmail.com");
@@ -557,7 +555,6 @@ public class NapTienForm extends javax.swing.JPanel {
                                 try {
 
                                     Message message = new MimeMessage(session);
-                                    message.setFrom(new InternetAddress("nguyenanhgoku123@gmail.com"));
                                     message.setRecipients(
                                         Message.RecipientType.TO,
                                         InternetAddress.parse(txtmail.getText())
