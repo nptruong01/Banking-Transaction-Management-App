@@ -660,8 +660,7 @@ public class RutTienForm extends javax.swing.JPanel {
                                     {
                                         sp.setAmount(Integer.parseInt(txttien.getText()));
 //                                        JOptionPane.showMessageDialog(null, "Rút Tiền Thành Công");
-                                                    final String username = "nguyenanhgoku123@gmail.com";
-                                                    final String password = "wbtqbjyurjhzygku";
+
 
                                                     Properties prop = new Properties();
                                                     prop.put("mail.smtp.host", "smtp.gmail.com");
@@ -805,8 +804,7 @@ public class RutTienForm extends javax.swing.JPanel {
                 {
                     sp.setAmount(Integer.parseInt(txttien.getText()));
                     
-                    final String username = "nguyenanhgoku123@gmail.com";
-                    final String password = "wbtqbjyurjhzygku";
+
 
                     Properties prop = new Properties();
                     prop.put("mail.smtp.host", "smtp.gmail.com");
