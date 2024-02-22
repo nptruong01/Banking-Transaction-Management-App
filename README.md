@@ -44,9 +44,12 @@ Once the application is running, the user interface will display with the follow
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/3443fa36-5f21-4d16-89bf-b251f6077d1d.png" alt="Home Page Interface" width="450"/>
 
 ### User Account Creation Interface
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/e0f00dd4-3beb-42ab-8e77-82e43c6afbc0.png" alt="User Account Creation Interface" width="450"/>
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/992a422d-2433-4bc9-b013-812eb7062092.png" alt="User Account Creation Interface" width="450"/>
-<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/9d1eb97a-c8c2-4988-ba23-b4a72d49666a.png" alt="User Account Creation Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/10f02275-7f08-4c80-a783-eace7e438595.png" alt="User Account Creation Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/3fed30fb-995d-40d2-8421-5ea6033ec660.png" alt="User Account Creation Interface" width="450"/>
+<img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/be837fc5-f17e-4d95-a6a6-2e2f6d9eb2f6.png" alt="User Account Creation Interface" width="450"/>
+![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/3fed30fb-995d-40d2-8421-5ea6033ec660)
+![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/10f02275-7f08-4c80-a783-eace7e438595)
+![image](https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/be837fc5-f17e-4d95-a6a6-2e2f6d9eb2f6)
 
 ### Deposit Interface
 <img src="https://github.com/nptruong01/Banking-Transaction-Management-App/assets/113322089/a00f1266-e550-4287-ae50-098c6b317a19.png" alt="Deposit Interface" width="450"/>
