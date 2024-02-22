@@ -539,7 +539,6 @@ public class NapTienForm extends javax.swing.JPanel {
             if (gddao.naptien(sp)>0 && gddao.congtien(sp)>0 )
             {
 
-
                                 Properties prop = new Properties();
                                 prop.put("mail.smtp.host", "smtp.gmail.com");
                                 prop.put("mail.smtp.port", "587");
