@@ -1,6 +1,6 @@
 # Banking Transaction Management
 
-Banking Transaction Management is a simple JavaSwing application developed to manage basic banking transactions. 
+Banking Transaction Management is a simple JavaSwing application developed to manage basic banking transactions 
 
 ## Function
 
